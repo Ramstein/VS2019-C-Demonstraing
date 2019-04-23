@@ -1,0 +1,4 @@
+﻿  ConsoleApplication8.cpp
+c:\users\zeeshan\source\repos\consoleapplication8\consoleapplication8\consoleapplication8.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zeeshan\source\repos\consoleapplication8\consoleapplication8\consoleapplication8.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication8.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.exe
