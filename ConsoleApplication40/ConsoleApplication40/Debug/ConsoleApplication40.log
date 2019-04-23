@@ -1,0 +1,26 @@
+﻿  ConsoleApplication40.cpp
+c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(25): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(25): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(25): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(31): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(31): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(31): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(31): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(37): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(37): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(37): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(37): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(39): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(39): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(39): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(39): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(46): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(46): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(46): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(46): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(48): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(48): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(48): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(48): note: this argument is used as a buffer size
+  ConsoleApplication40.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication40\Debug\ConsoleApplication40.exe
