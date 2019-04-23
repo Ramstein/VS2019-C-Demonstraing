@@ -1,0 +1,11 @@
+﻿  ConsoleApplication54.cpp
+c:\users\zeeshan\source\repos\consoleapplication54\consoleapplication54\consoleapplication54.cpp(12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication54\consoleapplication54\consoleapplication54.cpp(12): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication54\consoleapplication54\consoleapplication54.cpp(12): note: the missing variadic argument 2 is required by format string '%[^\n]'
+  c:\users\zeeshan\source\repos\consoleapplication54\consoleapplication54\consoleapplication54.cpp(12): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication54\consoleapplication54\consoleapplication54.cpp(17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication54\consoleapplication54\consoleapplication54.cpp(17): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication54\consoleapplication54\consoleapplication54.cpp(17): note: the missing variadic argument 2 is required by format string '%[^\n]'
+  c:\users\zeeshan\source\repos\consoleapplication54\consoleapplication54\consoleapplication54.cpp(17): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication54\consoleapplication54\consoleapplication54.cpp(9): warning C4101: 'l': unreferenced local variable
+  ConsoleApplication54.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication54\Debug\ConsoleApplication54.exe
