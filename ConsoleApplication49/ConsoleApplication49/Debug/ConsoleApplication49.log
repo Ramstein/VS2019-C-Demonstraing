@@ -1,0 +1,12 @@
+﻿  ConsoleApplication49.cpp
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(11): error C2065: 'FILE': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(11): error C2065: 'fp': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(15): error C2065: 'fp': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(15): error C3861: 'fopen_s': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(17): error C2065: 'fp': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(17): error C3861: 'fgetc': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(18): error C2065: 'EOF': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(32): error C2065: 'fp': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(32): error C3861: 'fclose': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(34): error C3861: 'printf': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication49\consoleapplication49\consoleapplication49.cpp(35): error C3861: 'printf': identifier not found

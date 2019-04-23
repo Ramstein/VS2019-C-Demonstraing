@@ -1,0 +1,5 @@
+/*PROBLEM SOLVING THROUGH PROGRAMMING IN C
+Program =20 :Convert Binary Number into Decimal number and vice versa:
+Name= Md Zeeshan
+Section= A5/16
+submitted to- Ms. Bhargavi singh*/

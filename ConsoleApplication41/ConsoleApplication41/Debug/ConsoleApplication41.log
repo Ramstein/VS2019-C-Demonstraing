@@ -1,0 +1,4 @@
+﻿  ConsoleApplication41.cpp
+c:\users\zeeshan\source\repos\consoleapplication41\consoleapplication41\consoleapplication41.cpp(15): warning C4101: 'ch2': unreferenced local variable
+c:\users\zeeshan\source\repos\consoleapplication41\consoleapplication41\consoleapplication41.cpp(16): warning C4101: 'word2': unreferenced local variable
+  ConsoleApplication41.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication41\Debug\ConsoleApplication41.exe
