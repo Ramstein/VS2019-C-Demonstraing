@@ -1,0 +1,5 @@
+﻿  ConsoleApplication59.cpp
+c:\users\zeeshan\source\repos\consoleapplication59\consoleapplication59\consoleapplication59.cpp(41): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication59\consoleapplication59\consoleapplication59.cpp(41): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\zeeshan\source\repos\consoleapplication59\consoleapplication59\consoleapplication59.cpp(41): note: the missing variadic argument 1 is required by format string '% a'
+  ConsoleApplication59.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication59\Debug\ConsoleApplication59.exe
