@@ -1,0 +1,33 @@
+﻿  ConsoleApplication55.cpp
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(6): error C2065: 'FILE': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(6): error C2065: 'fp1': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(6): error C2065: 'fp2': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(10): error C3861: 'printf_s': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(11): error C3861: 'getc': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(13): error C3861: 'printf_s': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(14): error C3861: 'gets': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(16): error C2065: 'fp1': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(16): error C3861: 'fopen_s': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(17): error C2065: 'fp2': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(17): error C3861: 'fopen_s': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(19): error C2065: 'fp1': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(19): error C2065: 'NULL': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(20): error C3861: 'printf': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(23): error C2065: 'fp2': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(23): error C2065: 'NULL': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(24): error C3861: 'printf': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(28): error C2065: 'fp1': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(28): error C3861: 'fgetc': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(29): error C2065: 'fp2': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(29): error C3861: 'fgetc': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(31): error C2065: 'EOF': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(32): error C2065: 'fp1': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(32): error C3861: 'fgetc': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(33): error C2065: 'fp2': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(33): error C3861: 'fgetc': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(37): error C3861: 'printf': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(39): error C3861: 'printf': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(41): error C2065: 'fp1': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(41): error C3861: 'fclose': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(42): error C2065: 'fp2': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication55\consoleapplication55\consoleapplication55.cpp(42): error C3861: 'fclose': identifier not found
