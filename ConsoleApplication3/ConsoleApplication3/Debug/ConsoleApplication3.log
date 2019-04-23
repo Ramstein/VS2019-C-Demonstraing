@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+c:\users\zeeshan\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zeeshan\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\zeeshan\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication3.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
