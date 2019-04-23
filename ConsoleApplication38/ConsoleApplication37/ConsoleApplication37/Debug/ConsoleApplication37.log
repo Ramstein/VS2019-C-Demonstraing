@@ -1,0 +1,28 @@
+﻿  ConsoleApplication37.cpp
+c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(27): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(27): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(27): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(27): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(33): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(33): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(33): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(33): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(39): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(39): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(39): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(39): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(41): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(41): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(41): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(41): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(48): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(48): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(48): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(48): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(50): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(50): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(50): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(50): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(52): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication37\consoleapplication37\consoleapplication37.cpp(52): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  ConsoleApplication37.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication37\Debug\ConsoleApplication37.exe
