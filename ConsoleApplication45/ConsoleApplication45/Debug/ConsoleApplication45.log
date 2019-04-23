@@ -1,0 +1,3 @@
+﻿  ConsoleApplication45.cpp
+c:\users\zeeshan\source\repos\consoleapplication45\consoleapplication45\consoleapplication45.cpp(14): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  ConsoleApplication45.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication45\Debug\ConsoleApplication45.exe
