@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  ConsoleApplication35.cpp
+c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(18): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(18): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(18): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(18): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(20): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(20): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(20): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(20): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(16): warning C4101: 'nol': unreferenced local variable
+c:\users\zeeshan\source\repos\consoleapplication35\consoleapplication35\consoleapplication35.cpp(16): warning C4101: 'nob': unreferenced local variable
+  ConsoleApplication35.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication35\x64\Debug\ConsoleApplication35.exe
