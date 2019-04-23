@@ -1,0 +1,20 @@
+﻿  Finding the roots of quadratric equations.cpp
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(12): error C2065: 'flaot': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(12): error C2146: syntax error: missing ';' before identifier 'D'
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(12): error C2065: 'D': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(12): error C2065: 'x1': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(12): error C2065: 'x2': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(15): error C2296: '&': illegal, left operand has type 'const char [3]'
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(15): error C2297: '&': illegal, right operand has type 'float'
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(18): error C2296: '&': illegal, left operand has type 'const char [3]'
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(18): error C2297: '&': illegal, right operand has type 'float'
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(21): error C2296: '&': illegal, left operand has type 'const char [3]'
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(21): error C2297: '&': illegal, right operand has type 'float'
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(22): error C2065: 'D': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(23): error C2065: 'x1': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(23): error C2065: 'D': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(24): error C2065: 'x2': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(24): error C2065: 'D': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(26): error C2065: 'x1': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(26): error C2065: 'x2': undeclared identifier
+c:\users\zeeshan\source\repos\finding the roots of quadratric equations\finding the roots of quadratric equations\finding the roots of quadratric equations.cpp(27): error C2143: syntax error: missing ';' before '}'
