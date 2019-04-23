@@ -1,0 +1,15 @@
+﻿  ConsoleApplication34.cpp
+c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(107): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(107): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(107): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(107): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(110): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(110): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(110): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(110): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(119): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(119): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(119): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(119): note: this argument is used as a buffer size
+c:\users\zeeshan\source\repos\consoleapplication34\consoleapplication34\consoleapplication34.cpp(176): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication34.vcxproj -> C:\Users\zeeshan\source\repos\ConsoleApplication34\Debug\ConsoleApplication34.exe

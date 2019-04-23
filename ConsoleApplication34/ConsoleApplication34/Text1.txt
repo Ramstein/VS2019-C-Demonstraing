@@ -1,0 +1,26 @@
+ Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Qualcomm QCA9377 802.11ac Wireless Adapter
+   Physical Address. . . . . . . . . : 74-40-BB-D3-B6-69
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::508e:f046:eeaa:6a40%3(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.43.115(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 09 February 2019 18:04:22
+   Lease Expires . . . . . . . . . . : 09 February 2019 19:04:22
+   Default Gateway . . . . . . . . . : 192.168.43.1
+   DHCP Server . . . . . . . . . . . : 192.168.43.1
+   DHCPv6 IAID . . . . . . . . . . . : 57950395
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-22-E1-E6-6E-54-48-10-C9-2D-EA
+   DNS Servers . . . . . . . . . . . : 192.168.43.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+Bitcoin=3D6caPnUXCzWqJ69HjZReJ3XJoEXXgStPC
+litecoin=MMnsBVqZvGxZqWxjDhdD3Yn5Z1A9ptRv3x
+
+221	 GNIOT(C-46231) 
+
+Address-PLOT NO. 7, KNOWLEDGE PARK - II, GREATER NOIDA (UP) 201 306
+
+Institute Registered on NSP

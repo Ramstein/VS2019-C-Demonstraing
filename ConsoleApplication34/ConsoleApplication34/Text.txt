@@ -1,0 +1,71 @@
+1=Define a Python function progression(l) that takes a nonempty list of integers l and returns True if the integers in l form an arithmetic progression: that is, l is of the form [a,a+d,a+2d,…,a+kd].
+
+>>> progression([3])
+True
+
+>>> progression([7,3,-1,-5])
+True
+
+>>> progression([3,5,7,9,10])
+False
+
+
+2=Write a Python function squareprime(l) that takes a nonempty list of integers and returns True if the elements of l alternate between perfect squares and prime numbers, and returns False otherwise. Note that the alternating sequence of squares and primes may begin with a square or with a prime.
+
+Here are some examples to show how your function should work.
+
+>>> primesquare([4])
+True
+
+>>> primesquare([4,5,16,101,64])
+True
+
+>>> primesquare([5,16,101,36,27])
+False
+
+
+3=A two dimensional matrix can be represented in Python row-wise, as a list of lists: each inner list represents one row of the matrix. For instance, the matrix
+
+1  2  3
+4  5  6 
+7  8  9
+would be represented as [[1, 2, 3], [4, 5, 6], [7, 8, 9]].
+
+
+4=A horizonatal flip reflects each row. For instance, if we flip the previous matrix horizontally, we get
+
+3  2  1
+6  5  4 
+9  8  7
+which would be represented as [[3, 2, 1], [6, 5, 4], [9, 8, 7]].
+
+
+5=A vertical flip reflects each column. For instance, if we flip the previous matrix that has already been flipped horizontally, we get
+
+9  8  7
+6  5  4 
+3  2  1
+which would be represented as [[9, 8, 7], [6, 5, 4], [3, 2, 1]].
+
+
+
+6=Write a Python function matrixflip(m,d) that takes as input a two dimensional matrix m and a direction d, where d is either 'h' or 'v'. If d == 'h', the function should return the matrix flipped horizontally. If d == 'v', the function should retun the matrix flipped vertically. For any other value of d, the function should return m unchanged. In all cases, the argument m should remain undisturbed by the function.
+
+Here are some examples to show how your function should work. You may assume that the input to the function is always a non-empty matrix.
+
+>>> myl = [[1,2],[3,4]]
+
+>>> myl
+[[1, 2], [3, 4]]  
+
+>>> matrixflip(myl,'h')
+[[2, 1], [4, 3]]
+
+>>> myl
+[[1, 2], [3, 4]]  
+
+>>> matrixflip(myl,'v')
+[[3, 4], [1, 2]]  
+
+>>> myl
+[[1, 2], [3, 4]]  
