@@ -1,0 +1,9 @@
+﻿  ConsoleApplication48.cpp
+c:\users\zeeshan\source\repos\consoleapplication48\consoleapplication48\consoleapplication48.cpp(10): error C2065: 'FILE': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication48\consoleapplication48\consoleapplication48.cpp(10): error C2065: 'fp': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication48\consoleapplication48\consoleapplication48.cpp(14): error C2065: 'fp': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication48\consoleapplication48\consoleapplication48.cpp(14): error C3861: 'fopen_s': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication48\consoleapplication48\consoleapplication48.cpp(16): error C2065: 'fp': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication48\consoleapplication48\consoleapplication48.cpp(16): error C3861: 'fgetc': identifier not found
+c:\users\zeeshan\source\repos\consoleapplication48\consoleapplication48\consoleapplication48.cpp(17): error C2065: 'EOF': undeclared identifier
+c:\users\zeeshan\source\repos\consoleapplication48\consoleapplication48\consoleapplication48.cpp(32): error C3861: 'printf_s': identifier not found
